@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cẩm nang Tết Việt</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Cẩm nang Tết Việt</h1>
+        <nav>
+            <ul>
+                <li><a href="nghi-le.html">Hướng dẫn nghi lễ</a></li>
+                <li><a href="lich-cung.html">Lịch nhắc cúng kiếng</a></li>
+                <li><a href="tu-vi.html">Tử vi & Phong thủy</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Giới thiệu về Tết Nguyên Đán</h2>
+            <p>Tết Nguyên Đán là dịp lễ quan trọng nhất của người Việt, gắn liền với sum vầy, tri ân tổ tiên và những phong tục mang ý nghĩa tốt lành cho năm mới.</p>
+        </section>
+        <section>
+            <h2>Phong tục và nghi lễ</h2>
+            <p>Khám phá các phong tục truyền thống và các nghi lễ trong dịp Tết Nguyên Đán như cúng ông Công ông Táo, cúng giao thừa, và nhiều hơn nữa.</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 Cẩm nang Tết Việt</p>
+    </footer>
+</body>
+</html>
